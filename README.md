@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tlstigle
-- 👀 I’m interested in ...data analytics
-- 🌱 I’m currently learning ...SQL and R
-- 💞️ I’m looking to collaborate on ...data analytics projects
+- 👋 Hi, I’m Tierra Stigler
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning SQL and R
+- 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me ... tierra_stigler@yahoo.com OR https://www.linkedin.com/in/tierrastigler
 
 <!---
